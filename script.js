@@ -1,4 +1,4 @@
-const locomotiveScroll = () => {
+  const locomotiveScroll = () => {
     gsap.registerPlugin(ScrollTrigger);
 
     // Using Locomotive Scroll from Locomotive https://github.com/locomotivemtl/locomotive-scroll
